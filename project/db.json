@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello JSON Server",
+      "views": 100,
+      "isDeleted": false
+    }
+  ]
+}
